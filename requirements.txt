@@ -1,0 +1,6 @@
+numpy
+Pillow
+matplotlib
+pandas
+scipy
+streamlit>=1.28
