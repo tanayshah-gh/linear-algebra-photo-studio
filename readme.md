@@ -53,4 +53,7 @@ Demo scripts write figures into `outputs/`.
 | `tests/` | unit tests |
 
 ## Team
-Add team member names and SRNs here.
+tanay shah PES1UG25AM422
+shriram krishnan
+siddhant chawla
+shyam sooraj
