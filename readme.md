@@ -53,7 +53,7 @@ Demo scripts write figures into `outputs/`.
 | `tests/` | unit tests |
 
 ## Team
-tanay shah PES1UG25AM422
+tanay shah
 shriram krishnan
 siddhant chawla
 shyam sooraj
