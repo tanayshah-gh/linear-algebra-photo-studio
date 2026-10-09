@@ -255,7 +255,7 @@ elif mode == "Deblurring lab":
 
 # ----------------------------------------------------------------- key ideas
 else:
-    st.header("Key ideas (viva cheat-sheet)")
+    st.header("Key ideas")
     st.markdown("""
 **Image = matrix.** A grayscale image is an H x W matrix; a colour image is three of them (R, G, B).
 
